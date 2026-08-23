@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 149 | 24 |
+| 150 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (22)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (33)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (96)
+- [implementation](#implementation) (97)
 - [math](#math) (49)
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
@@ -84,6 +84,7 @@
 | 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.cpp) |
 | 1207A | [There Are Two Types Of Burgers](https://codeforces.com/contest/1207/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1207/A%20-%20There%20Are%20Two%20Types%20Of%20Burgers/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
@@ -278,6 +279,7 @@
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
