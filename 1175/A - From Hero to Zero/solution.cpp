@@ -1,0 +1,35 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        long long n, k;
+        cin >> n >> k;
+        long long count = 0;
+ 
+        while (n > 0)
+        {
+            if (k == 1)
+            {
+                count = n;
+                break;
+            }
+            if (n % k == 0)
+            {
+                n /= k;
+                count++;
+            }
+            else
+            {
+                count += n % k;
+                n -= n % k;
+            }
+        }
+        cout << count << endl;
+    }
+    return 0;
+}
