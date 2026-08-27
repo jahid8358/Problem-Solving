@@ -50,17 +50,16 @@ void solve()
  
     for (int i = 0; i < n; i++)
     {
-        if (a[i] == 'G')
-            a[i] = 'B';
-        if (b[i] == 'G')
-            b[i] = 'B';
+        if ((a[i] == 'R' && b[i] != 'R') || b[i] == 'R' && a[i] != 'R')
+        {
+            cout << "NO
+";
+            return;
+        }
     }
-    if (a == b)
-        cout << "YES
+    cout << "YES
 ";
-    else
-        cout << "NO
-";
+    return;
 }
  
 int main()
