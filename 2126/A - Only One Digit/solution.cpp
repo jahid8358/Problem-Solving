@@ -43,15 +43,13 @@ void solve()
 {
     int n;
     cin >> n;
-    int min = n;
+    int smallest = 9;
     while (n > 0)
     {
-        int x = n % 10;
-        if (x < min)
-            min = x;
+        smallest = min(smallest, n % 10);
         n /= 10;
     }
-    cout << min << endl;
+    cout << smallest << endl;
 }
  
 int main()
