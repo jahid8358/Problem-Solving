@@ -9,12 +9,12 @@ int main() {
         int n;
         cin>>n;
         int a[n];
-        int even=0,odd=0;
+        int e=0,o=0;
         for(int i=0; i<n; i++) {
             cin>>a[i];
-            (a[i]%2==0? even+=a[i]:odd+=a[i]);
+            (a[i]%2==0? e+=a[i]:o+=a[i]);
         }
-        (even>odd? cout<<"YES
+        (e>o? cout<<"YES
 ":cout<<"NO
 ");
     }
