@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 
 ### greedy
 
@@ -36,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.cpp) |
+| 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 
 ### sortings
 
