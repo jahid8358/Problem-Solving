@@ -6,33 +6,51 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 10 |
+| 48 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
+- [brute force](#brute-force) (8)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (25)
-- [math](#math) (8)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (31)
+- [math](#math) (12)
+- [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 102267B | [Primes](https://codeforces.com/contest/102267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/102267/B%20-%20Primes/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/268/A%20-%20Games/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
+| 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 
 ### constructive algorithms
@@ -40,6 +58,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.c) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 
@@ -61,7 +81,10 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.c) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 
 ### implementation
 
@@ -74,24 +97,30 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/116/A%20-%20Tram/solution.c) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/200/B%20-%20Drinks/solution.c) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.c) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.c) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
+| 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 
 ### math
 
@@ -102,9 +131,22 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/617/A%20-%20Elephant/solution.c) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.cpp) |
 | 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
+| 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 
 ### shortest paths
 
@@ -128,6 +170,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
