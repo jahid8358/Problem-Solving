@@ -1,0 +1,8 @@
+// Problem: Regular Cleaning
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1356027211
+// Solved on: 2026-09-11T06:00:23.154Z
+
+// source not captured automatically - open the solution page and copy it manually
