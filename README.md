@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [games](#games) (1)
+- [math](#math) (2)
 
 ---
 
@@ -23,10 +24,17 @@
 |---|---------|------------|----------|
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 
 ---
