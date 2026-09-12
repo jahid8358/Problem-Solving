@@ -43,19 +43,22 @@ void solve()
 {
     int n, m, k;
     cin >> n >> m >> k;
-    int a[n], b[m];
+    vi a(n), b(m);
     int count = 0;
     for (int i = 0; i < n; i++)
         cin >> a[i];
     for (int i = 0; i < m; i++)
         cin >> b[i];
- 
+    sort(all(a));
+    sort(all(b));
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < m; j++)
         {
             if (a[i] + b[j] <= k)
                 count++;
+            else
+                break;
         }
     }
     cout << count << endl;
