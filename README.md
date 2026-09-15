@@ -6,15 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 3 |
+| 9 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (3)
 - [games](#games) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (3)
 - [math](#math) (4)
+- [strings](#strings) (1)
 
 ---
 
@@ -22,6 +25,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.c) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.c) |
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 
 ### games
@@ -29,6 +34,20 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.c) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/116/A%20-%20Tram/solution.c) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.c) |
 
 ### math
 
@@ -38,6 +57,12 @@
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 | 1977A | [Little Nikita](https://codeforces.com/contest/1977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1977/A%20-%20Little%20Nikita/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 
 ---
 
