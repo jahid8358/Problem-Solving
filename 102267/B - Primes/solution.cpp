@@ -1,46 +1,67 @@
-#include <iostream>
+/*
+ *       ___      _       _   _   _   ____
+ *      |_  |    / \     | | | | | | |  _ \
+ *        | |   / _ \    | |_| | | | | | | |
+ *    | |_| |  / ___ \   |  _  | | | | |_| |
+ *     \___/  /_/   \_\  |_| |_| |_| |____/
+ *
+ *    Problem:  problem
+ *    Time:     13-08-2026 16:30
+ */
+ 
+#include <bits/stdc++.h>
 using namespace std;
+ 
+// Fast I/O
+#define fastio()                      \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(NULL);                    \
+    cout.tie(NULL)
+ 
+// Macros
+#define rep(i, j) for (int i = 0; i < j; i++)
+#define rrep(i, j) for (int i = j - 1; i >= 0; i--)
+#define all(x) x.begin(), x.end()
+#define pb push_back
+#define mp make_pair
+#define sz(x) ((int)(x).size())
+#define endl '
+'
+ 
+// Typedefs
+typedef long long ll;
+typedef vector<int> vi;
+typedef vector<ll> vll;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
+ 
+// Constants
+const ll MOD = 1e9 + 7;
+const ll INF = 1e18;
+ 
+void solve()
+{
+    string s;
+    cin >> s;
+    string code = "codeforces";
+    int ans = 0;
+    for (int i = 0; i < s.length(); i++)
+        if (s[i] != code[i])
+            ans++;
+ 
+    cout << ans << endl;
+}
  
 int main()
 {
-  int t;
-  cin >> t;
-  long long a, b, c;
-  for (int i = 1; i <= t; i++)
-  {
-    cin >> a >> b >> c;
+    fastio();
  
-    if (3 * b <= c)
-      cout << b * a << endl;
- 
-    else
+    int t = 1;
+    cin >> t;
+    while (t--)
     {
-      long long p = (a / 3) * c;
-      if (a % 3 == 0)
-      {
-        cout << p << endl;
-      }
-      else if (a % 3 == 2 && (2 * b) <= c)
-      {
-        p = p + (2 * b);
-        cout << p << endl;
-      }
-      else if (a % 3 == 2 && (2 * b) >= c)
-      {
-        p = p + c;
-        cout << p << endl;
-      }
-      else if (a % 3 == 1 && b <= c)
-      {
-        p = p + b;
-        cout << p << endl;
-      }
-      else if (a % 3 == 1 && b >= c)
-      {
-        p = p + c;
-        cout << p << endl;
-      }
+        solve();
     }
-  }
-  return 0;
+ 
+    return 0;
 }
