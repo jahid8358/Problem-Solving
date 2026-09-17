@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 177 | 24 |
+| 178 | 24 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (27)
-- [constructive algorithms](#constructive-algorithms) (9)
+- [brute force](#brute-force) (28)
+- [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
@@ -26,15 +26,15 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (38)
+- [greedy](#greedy) (39)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (107)
+- [implementation](#implementation) (108)
 - [math](#math) (62)
 - [number theory](#number-theory) (10)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (21)
-- [strings](#strings) (29)
+- [strings](#strings) (30)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -96,6 +96,7 @@
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
@@ -111,6 +112,7 @@
 | 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 
 ### data structures
@@ -207,6 +209,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
@@ -327,6 +330,7 @@
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
@@ -482,6 +486,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
