@@ -1,23 +1,18 @@
-#include <iostream>
+#include<iostream>
+#include<vector>
 using namespace std;
-int main()
-{
-  int t;
-  cin >> t;
-  int arr[t];
- 
-  for (int i = 0; i < t; i++)
-    cin >> arr[i];
- 
-  int val = arr[0];
-  int count = 1;
- 
-  for (int i = 0; i < t - 1; i++)
-  {
-    if (val != arr[i + 1])
-      count++;
-    val = arr[i + 1];
-  }
-  cout << count << endl;
-  return 0;
+int main(){
+    int n;
+    cin >> n;
+    vector<int> vec(n);
+    for(int i=0; i<n; i++){
+        cin >> vec[i];
+    }
+    int count = 1;
+    for(int i=0; i<n-1; i++){
+        if(vec[i] != vec[i+1])
+        count++;
+    }
+    cout << count << endl;
+    return 0;
 }
