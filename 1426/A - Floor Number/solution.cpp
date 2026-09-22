@@ -39,7 +39,7 @@ typedef pair<ll, ll> pll;
 const ll MOD = 1e9 + 7;
 const ll INF = 1e18;
  
-void solve()
+void solv()
 {
     int n, x;
     cin >> n >> x;
@@ -47,9 +47,8 @@ void solve()
     if (n <= 2)
         cout << "1" << endl;
     else
-    {
         cout << (n - 3) / x + 2 << endl;
-    }
+    
 }
  
 int main()
@@ -59,9 +58,8 @@ int main()
     int t = 1;
     cin >> t;
     while (t--)
-    {
-        solve();
-    }
+        solv();
+    
  
     return 0;
 }
