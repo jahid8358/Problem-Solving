@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 194 | 24 |
+| 196 | 24 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (42)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (115)
-- [math](#math) (70)
+- [implementation](#implementation) (116)
+- [math](#math) (72)
 - [number theory](#number-theory) (10)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
@@ -306,6 +306,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
@@ -384,6 +385,7 @@
 | 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.cpp) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
+| 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
@@ -392,6 +394,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1542/A%20-%20Odd%20Set/solution.cpp) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.cpp) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/jahid8358/Problem-Solving/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
